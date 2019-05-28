@@ -9,7 +9,5 @@ require 'pry'
  }
 
 def get_the_values(groceries)
-  groceries = {dairy: "Milk", vegetable: "Carrot", meat: "Ham", grains: "Bread"}
   
-  groceries.values
 end
